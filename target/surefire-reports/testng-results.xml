@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-26T00:04:36 IST" name="Suite" finished-at="2021-03-26T00:04:43 IST" duration-ms="6614">
+    <groups>
+    </groups>
+    <test started-at="2021-03-26T00:04:36 IST" name="Test" finished-at="2021-03-26T00:04:43 IST" duration-ms="6614">
+      <class name="JTCAssessment.Googlesearch">
+        <test-method signature="BrowserAutomation()[pri:0, instance:JTCAssessment.Googlesearch@6156496]" started-at="2021-03-26T00:04:36 IST" name="BrowserAutomation" finished-at="2021-03-26T00:04:43 IST" duration-ms="6546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- JTCAssessment.Googlesearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
